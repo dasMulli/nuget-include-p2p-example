@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "d5dfa4afc71120cd53cae978ebf6ab9786264997"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "testapp/1.0.0": {
+        "dependencies": {
+          "LibA": "1.0.0"
+        },
+        "runtime": {
+          "TestApp.dll": {}
+        }
+      },
+      "liba/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.4/LibA.dll": {},
+          "lib/netstandard1.4/LibB.dll": {},
+          "lib/netstandard1.4/PrivateLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "liba/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ho6uKvA+jwbwkGWw6m9Sd9xR5C7M4SnXvxUbDQsbGtGe1I7LmSpYugtMuG37q4htHLpWYvH+LTwf9fTlyw+GqQ==",
+      "path": "liba/1.0.0",
+      "hashPath": "liba.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/bin/Release/netstandard1.4/PrivateLib.deps.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/bin/Release/netstandard1.4/PrivateLib.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/bin/Release/netstandard1.4/PrivateLib.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/obj/Release/netstandard1.4/PrivateLib.AssemblyInfo.cs
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/obj/Release/netstandard1.4/PrivateLib.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/PrivateLib/obj/Release/netstandard1.4/PrivateLib.pdb

@@ -1,0 +1,10 @@
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/LibA.deps.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/LibA.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/LibA.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/LibB.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/PrivateLib.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/LibB.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/bin/Release/netstandard1.4/PrivateLib.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/obj/Release/netstandard1.4/LibA.AssemblyInfo.cs
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/obj/Release/netstandard1.4/LibA.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibA/obj/Release/netstandard1.4/LibA.pdb

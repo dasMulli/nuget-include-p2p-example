@@ -1,0 +1,6 @@
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/bin/Release/netstandard1.4/LibB.deps.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/bin/Release/netstandard1.4/LibB.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/bin/Release/netstandard1.4/LibB.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/obj/Release/netstandard1.4/LibB.AssemblyInfo.cs
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/obj/Release/netstandard1.4/LibB.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/LibB/obj/Release/netstandard1.4/LibB.pdb

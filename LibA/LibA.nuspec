@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$authors$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <dependencies>
+      <group targetFramework=".NETStandard1.4">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\$config$\netstandard1.4\$id$.dll" target="lib\netstandard1.4\$id$.dll" />
+    <file src="bin\$config$\netstandard1.4\LibB.dll" target="lib\netstandard1.4\LibB.dll" />
+    <file src="bin\$config$\netstandard1.4\PrivateLib.dll" target="lib\netstandard1.4\PrivateLib.dll" />
+    <file src="bin\$config$\netstandard1.4\$id$.dll" target="ref\netstandard1.4\$id$.dll" />
+    <file src="bin\$config$\netstandard1.4\LibB.dll" target="ref\netstandard1.4\LibB.dll" />
+  </files>
+</package>

@@ -1,0 +1,8 @@
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/bin/Debug/netcoreapp1.1/TestApp.deps.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/bin/Debug/netcoreapp1.1/TestApp.runtimeconfig.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/bin/Debug/netcoreapp1.1/TestApp.runtimeconfig.dev.json
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/bin/Debug/netcoreapp1.1/TestApp.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/bin/Debug/netcoreapp1.1/TestApp.pdb
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/obj/Debug/netcoreapp1.1/TestApp.AssemblyInfo.cs
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/obj/Debug/netcoreapp1.1/TestApp.dll
+/Users/martin/Documents/repos/nuget-include-p2p-example/TestApp/obj/Debug/netcoreapp1.1/TestApp.pdb
